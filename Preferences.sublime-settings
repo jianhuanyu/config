@@ -21,6 +21,8 @@
 	"always_show_minimap_viewport": true,
 	//开启小地图的边框
 	"draw_minimap_border": true,
+	//设置字体
+	"font_size":"Consolas",
 	//字体大小
 	"font_size": 14,
 	//忽略的包
