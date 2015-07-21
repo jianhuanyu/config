@@ -1,27 +1,37 @@
 {
-	//配置主题
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
-	//配置左边的侧边栏也使用主题
-	"theme": "Flatland Dark.sublime-theme",
+	//Sublime Text的主题
+	//"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	//"theme": "Spacegray.sublime-theme",
+	//"theme": "Spacegray Light.sublime-theme",
+  	//"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+  	"theme": "Spacegray Eighties.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	//tab（标签栏）的字体
+	"spacegray_tabs_font_normal": true,
+	//tab（标签栏）的高度
+	"spacegray_tabs_large": true,
+	//tab（标签栏）的宽度
+	"spacegray_tabs_auto_width": true,
+	//sidebar的字体
+	"spacegray_sidebar_font_large": true,
+	//sidebar的高度？	
+	"spacegray_sidebar_tree_large": true,
 
 	//开启小地图
 	"always_show_minimap_viewport": true,
 	//开启小地图的边框
 	"draw_minimap_border": true,
-	
-	//在底部栏显示编码
-	"show_encoding": true,
-
 	//字体大小
 	"font_size": 14,
-	
-	//每一行的内边距
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-
 	//忽略的包
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	//每一行的内边距
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	//在底部栏显示编码
+	"show_encoding": true,
+
 }
